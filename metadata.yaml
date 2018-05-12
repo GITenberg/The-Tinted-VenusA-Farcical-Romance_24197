@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6137
     wikipedia: http://en.wikipedia.org/wiki/F._Anstey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24197#The-Tinted-VenusA-Farcical-Romance
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2008-01-07'
 gutenberg_type: Text
